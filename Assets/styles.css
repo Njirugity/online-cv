@@ -41,61 +41,51 @@ body{
     background-color: rgb(128, 237, 153);
     height: 150px;
     width: 600px;
-    border-width: 5px;
-    border-style: inset;
-    border-color: rgb(56, 163, 165);
     padding-left: 20px;
+    padding-top: 10px;
     position: relative;
-    left: 700px;
-    bottom: 400px;
+    top: 50px;
+    left: 50px;
 }
 .education{
     background-color: rgb(128, 237, 153);
     height: 225px;
     width: 600px;
-    border-width: 5px;
-    border-style: inset;
-    border-color: lightseagreen;
     padding-left: 20px;
+    padding-top: 10px;
     position: relative;
-    left: 700px;
-    bottom: 350px;
+    top: 50px;
+    left: 50px;
 }
 .work{
     background-color: rgb(128, 237, 153);
     height: 200px;
     width: 600px;
-    border-width: 5px;
-    border-style: inset;
-    border-color: lightseagreen;
     padding-left: 20px;
+    padding-top: 10px;
     position: relative;
-    left: 700px;
-    bottom: 300px;
+    top: 50px;
+    left: 50px;
 }
 .skills{
     background-color: rgb(128, 237, 153);
     height: 200px;
     width: 600px;
-    border-width: 5px;
-    border-style: inset;
-    border-color: lightseagreen;
     padding-left: 20px;
+    padding-top: 10px;
     position: relative;
-    left: 700px;
-    bottom: 250px;
+    top: 50px;
+    left: 50px;
 }
 .volunteer{
     background-color: rgb(128, 237, 153);
     height: 150px;
     width: 600px;
-    border-width: 5px;
-    border-style: inset;
-    border-color: lightseagreen;
     padding-left: 20px;
+    padding-top: 10px;
     position: relative;
-    left: 700px;
-    bottom: 200px;
+    top: 50px;
+    left: 50px;
 }
 .referees{
     background-color: rgb(128, 237, 153);
@@ -142,4 +132,44 @@ body{
     position: relative;
     left: 50px;
     bottom: 800px;  
+}
+.block3{
+    background-color: rgb(87, 204, 153);
+    height: 200px;
+    width: 650px;
+    position: relative;
+    left: 600px;
+    bottom: 500px;
+}
+.block4{
+    background-color: rgb(87, 204, 153);
+    height: 225px;
+    width: 650px;
+    position: relative;
+    left: 600px;
+    bottom: 450px;
+}
+.block5{
+    background-color: rgb(87, 204, 153);
+    height: 225px;
+    width: 650px;
+    position: relative;
+    left: 600px;
+    bottom: 350px;
+}
+.block6{
+    background-color: rgb(87, 204, 153);
+    height: 225px;
+    width: 650px;
+    position: relative;
+    left: 600px;
+    bottom: 300px;
+}
+.block7{
+    background-color: rgb(87, 204, 153);
+    height: 225px;
+    width: 650px;
+    position: relative;
+    left: 600px;
+    bottom: 250px;
 }
