@@ -1,10 +1,10 @@
 body{
     background: #333;
-    color: rgb(255, 255, 255);
+    color: rgb(34, 87, 122);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .title-block{
-    background-color: rgb(177, 230, 147);
+    background-color: rgb(87, 204, 153);
     border-width: 5px;
     border-style: solid;
     border-radius: 25px;
@@ -18,7 +18,8 @@ body{
 }
 .names{
     background-color: rgb(128, 237, 153);
-    height: 100px;
+    font-size: 15px;
+    height: 150px;
     width: 350px;
     padding-left: 20px;
     padding-top: 10px;
@@ -104,14 +105,14 @@ body{
     padding-left: 25px;
 }
 .card{
-    background: rgb(177, 230, 147);
+    background: rgb(87, 204, 153);
     width: 200px;
     height: 250px;
     margin-left: 50px;
 }
 .block1{
     background-color: rgb(87, 204, 153);
-    height: 150px;
+    height: 200px;
     width: 350px;
     position: relative;
     left: 50px;
@@ -131,7 +132,7 @@ body{
     width: 350px;
     position: relative;
     left: 50px;
-    bottom: 800px;  
+    bottom: 850px;  
 }
 .block3{
     background-color: rgb(87, 204, 153);
@@ -163,13 +164,68 @@ body{
     width: 650px;
     position: relative;
     left: 600px;
-    bottom: 300px;
+    bottom: 275px;
 }
 .block7{
     background-color: rgb(87, 204, 153);
-    height: 225px;
+    height: 150px;
     width: 650px;
     position: relative;
     left: 600px;
-    bottom: 250px;
+    bottom: 200px;
+}
+.email{
+    color: #fff;
+    height: 25px;
+    width: 125px;
+    background-color: rgb(87, 204, 153);
+    border-style: outset;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 20px;
+    position: relative;
+    bottom: 700px;
+    left: 50px;
+}
+.line1{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
+}
+.line2{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
+}
+.line3{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
+}
+.line4.{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
+}
+.line5{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
+}
+.line6{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
+}
+.line7{
+    border-style: solid;
+    border-color: #fff;
+    border-top: 20px;
+    border-right: 40px;
 }
